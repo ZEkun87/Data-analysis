@@ -1,4 +1,3 @@
-*/
 use my_db;
 SET FOREIGN_KEY_CHECKS=0;
 
